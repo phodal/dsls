@@ -20,6 +20,10 @@ DSL Types:
 
 DSL 是一种处理抽象的方式，它需要语义模型作为输入。
 
+## When & How
+
+[When and How to Develop Domain-Specific Languages](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.654&rep=rep1&type=pdf)
+
 License
 ---
 
